@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @hassenmaoua
-- 👀 I’m interested in engenier sofware
-- 🌱 I’m currently learning python, mysql
-- 💞️ I’m looking to collaborate on Google
-- 📫 How to reach me "No you can not"
 
-<!---
-hassenmaoua/hassenmaoua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, my name is Hassen Maoua, i live in Tunisia, i am currently computer science software engineering student at the [Higher Institute of Applied Sciences and Technology of Sousse.](https://issatso.rnu.tn/), Most of my spare time is spent developing and upgrading my own skills. I am passionate about web development, I have experience in [React JS](https://reactjs.org/) & [Node JS](https://nodejs.org/en/). I have been working on various related projects.
+
+##Languages and tools
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-ffbc03?&logo=Python&style=for-the-badge" /> <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?&logo=c%2b%2b&style=for-the-badge" /><img alt="ReactJs" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"><img alt="NodeJs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"><img alt="shell script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> <img alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white"> <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="> <img alt="Sublime Text" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label="> <img alt="PyCharm" src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label="> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
